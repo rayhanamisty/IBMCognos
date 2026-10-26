@@ -17,8 +17,7 @@ An interactive data visualization project built using **IBM Watson Studio** (Cog
 ## 📂 Repository Structure
 
 ```IBMCognos
-├── data/
-│   └── Zomato Restaurant Dataset.csv         # Raw/cleaned data files
+├── Zomato Restaurant Dataset.csv         # Raw/cleaned data files
 ├── screenshots/
 │   ├── overview_dashboard.png     # Visual preview of main dashboard
 │   └── regional_breakdown.png     # Visual preview of breakdown page
